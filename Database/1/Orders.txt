@@ -1,0 +1,2 @@
+Order ID , Customer ID , First Name , Last Name , Phone , Total ($)
+2 / 1 / Jeremy / Sampl / 12312415543 / 43417.73

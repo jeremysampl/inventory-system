@@ -1,0 +1,5 @@
+ID , Quantity , Name , Category , Price ($)
+1 / 346 / B450M / Motherboard / 299.00
+2 / 15 / GTX 1660 / Graphics Card / 669.99
+3 / 28 / SecretLab Titan / Gaming Chair / 699.99
+4 / 13 / 2016 Macbook / Laptop / 2199.99

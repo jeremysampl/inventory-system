@@ -1,0 +1,6 @@
+ID , Name , Description
+1 / Monitor / Cool Screen
+2 / Motherboard / Board that everything connect to
+3 / Gaming Chair / Comfortable
+4 / Graphics Card / Runs Games
+5 / Laptop / Portable
